@@ -1,0 +1,7 @@
+{
+  "name": "Copy 1 of APP TẠO ẢNH HALLOWEEN",
+  "description": "An application that allows users to upload a portrait photo, choose a Halloween style, and let AI automatically generate a spooky transformation based on that theme.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
